@@ -1,0 +1,5 @@
+name: 税率設定確認プラグイン
+code: TaxRuleProblem
+version: 1.0.0
+service:
+    - TaxRuleProblemServiceProvider
