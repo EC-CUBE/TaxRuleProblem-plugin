@@ -3,7 +3,7 @@
 /*
  * This file is part of the TaxRuleProblem
  *
- * Copyright(c) EC-CUBE
+ * Copyright(c) EC-CUBE CO.,LTD. All Rights Reserved.
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
